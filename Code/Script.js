@@ -2,7 +2,6 @@
 //number between 1 and 9.
 //The counter is displayed with a smooth animation.
 
-
 //Code below:-
 let countInterval;
 //countInterval: This is a variable that will store the interval for the counter.
